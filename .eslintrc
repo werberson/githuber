@@ -21,5 +21,10 @@
   },
   "globals": {
     "__DEV__": true
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
   }
 }
