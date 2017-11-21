@@ -5,7 +5,7 @@ import { NavigationActions } from 'react-navigation';
 import PropTypes from 'prop-types';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { colors } from 'styles';
-import styles from './style';
+import styles from './styles';
 
 export default class Header extends Component {
   static propTypes = {
