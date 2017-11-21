@@ -16,9 +16,6 @@ const styles = StyleSheet.create({
   loading: {
     marginTop: 20,
   },
-  empty: {
-
-  },
 });
 
 export default styles;
