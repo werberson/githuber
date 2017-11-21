@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
   },
   icon: {
     color: colors.inactive,
+    paddingBottom: 10,
   },
   text: {
     color: colors.inactive,
